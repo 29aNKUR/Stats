@@ -1,6 +1,6 @@
 import FundContainer from "./FundContainer";
 
-const SignIn = () => {
+const PieChart = () => {
   return (
     <div className="flex flex-row items-start justify-start relative gap-[10px] text-left text-36xl-3 text-black font-ibm-plex-sans">
       <div className="w-[792px] relative h-[1072px] z-[0]">
@@ -31,4 +31,4 @@ const SignIn = () => {
   );
 };
 
-export default SignIn;
+export default PieChart;
